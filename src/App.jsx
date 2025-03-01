@@ -1,7 +1,19 @@
-import React from "react";
-import "./App.css";
-import Home from "./Pages/Home/Home";
+// import React from "react";
+// import "./App.css";
+// import Home from "./Pages/Home/Home";
 
+// function App() {
+//   return (
+//     <>
+//       <Home />
+//     </>
+//   );
+// }
+
+// export default App;
+import React from "react";
+import "./app.css";
+import Home from "./Pages/Home/Home";
 function App() {
   return (
     <>
@@ -9,5 +21,3 @@ function App() {
     </>
   );
 }
-
-export default App;
