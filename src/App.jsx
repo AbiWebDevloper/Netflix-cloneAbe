@@ -12,7 +12,7 @@
 
 // export default App;
 import React from "react";
-import "./app.css";
+import "./App.css";
 import Home from "./Pages/Home/Home";
 function App() {
   return (
@@ -21,3 +21,4 @@ function App() {
     </>
   );
 }
+export default App;
